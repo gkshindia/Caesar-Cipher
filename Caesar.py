@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  6 16:10:52 2017
 
-@author: KANHAIYA
-"""
 import string
 string.ascii_lowercase
 '''
